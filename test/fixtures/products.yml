@@ -1,0 +1,23 @@
+# encoding: utf-8
+--- 
+guide: 
+  type: Inglewood Sauvignon Blanc
+  description: Perennially popular Sauvignon Blanc from Stellenbosch Stalwart Neil Ellis Wines. The Inglewood Sauvignon Blanc has predominant flavours of tropical fruit with herbaceous overtones, whilst the overall impression is of elegance and delicacy with a long flavoursome finish.
+  image_url: Music-Notation-A-South-African-Guide.jpg
+  year: 2015
+  price: 170.0
+  title: Neil Ellis Wines
+one: 
+  type: MyString
+  description: MyText
+  image_url: MyString
+  year: MyString
+  price: 9.99
+  title: MyString
+two: 
+  type: MyString
+  description: MyText
+  image_url: MyString
+  year: MyString
+  price: 9.99
+  title: MyString
